@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor_InjecaoDependencia", "Blazor_InjecaoDependencia\Blazor_InjecaoDependencia.csproj", "{B5664319-B2B4-4A2E-8711-EC111676DA51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5664319-B2B4-4A2E-8711-EC111676DA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5664319-B2B4-4A2E-8711-EC111676DA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5664319-B2B4-4A2E-8711-EC111676DA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5664319-B2B4-4A2E-8711-EC111676DA51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43323CA8-CA35-4FFD-8832-EE4B4E44844A}
+	EndGlobalSection
+EndGlobal
